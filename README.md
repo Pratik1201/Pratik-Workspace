@@ -1,1 +1,1 @@
-- It consists of java program - path:- LearningJavaATB15xProgram/src/tasks
+- It consists of java programs - path:- LearningJavaATB15xProgram/src/tasks
