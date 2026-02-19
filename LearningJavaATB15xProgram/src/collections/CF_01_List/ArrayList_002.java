@@ -1,4 +1,4 @@
-package collections;
+package collections.CF_01_List;
 
 import java.util.ArrayList;
 import java.util.List;
